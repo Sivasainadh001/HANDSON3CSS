@@ -1,0 +1,252 @@
+body {
+    background: grey;
+    margin: 0;
+    padding: 0;
+
+}
+.a {
+    width: 450px;
+    height: 120px;
+    margin-left: 450px;
+    margin-top: 15px;
+
+    background:white;
+    border: 10px solid rgb(206, 66, 66);
+    border-radius: 20px;
+    text-align: center;
+    padding: 15px 50px 10px 50px;
+    font-size: 30px;
+    font-style: italic;
+    box-shadow: 5px 5px rgb(142, 7, 115);
+    text-shadow: 2px 2px 2px rgb(36, 12, 14);
+    color: rgb(194, 19, 133);
+    line-height: 40px;
+
+}
+
+.b {
+    width: 550px;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    background: rgb(151, 239, 20);
+    border: 10px solid rgb(206, 66, 66);
+    box-shadow: 5px 5px rgb(142, 7, 115);
+    text-align: center;
+    border-radius: 20px;
+    align-items: center;
+    margin-left: 450px;
+    font-style: italic;
+}
+.b {
+    position: fixed;
+    bottom: 100px;
+}
+
+.c {
+    color: rgb(163, 69, 69);
+    font-size:30px;
+    padding:15px 5px 10px 30px;
+    font-weight: bold;
+
+}
+.d {
+    color: rgb(163, 69, 69);
+    font-size:20px;
+    padding:20px 0px 10px 80px;
+    font-weight:900;
+}
+.e {
+    /*position: relative;*/
+    width:auto;
+    border: 10px solid green;
+    height: 800PX;
+}
+.f {
+    width: 250px;
+    height: 250px;
+    background: white;
+    border: 10px solid rgb(206, 66, 66);
+    box-shadow: 5px 5px rgb(142, 7, 115);
+    border-radius: 25px;
+    text-align: center;
+
+    
+}
+.f {
+    text-shadow: 2px 1px  rgb(103, 26, 32);
+    color: black;
+    font-weight: bold;
+
+}
+#o1 {
+    position: absolute;
+    top: 150;
+    font-size:30px;
+    line-height:50px;
+    font-weight: bold;
+}
+
+#o2 {
+    position: absolute;
+    right: 70px;
+    
+}
+img {
+    margin:40px 40px;
+    width: 180px;
+    height: 170px;
+}
+#o3 {
+    position: absolute;
+    bottom:-170px;
+    left: 10px;
+    font-size: 15px;
+    font-weight: 200px;
+    line-height: 30px;
+}
+
+
+
+
+#o4 {
+    position: absolute;
+    right: 70px;
+    bottom: -170px;
+    font-size:13px ;
+
+}
+.g {
+    background: rgb(221, 34, 34);
+    border-radius: 20px;
+
+}
+.h {
+    display: flex;
+    width:900px;
+    height: 750px;
+    /*align-items: center;*/
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-around;
+    background:green;
+    border: 10px solid rgb(195, 22, 181);
+    margin:50px 300px;
+    padding-top: 0px;
+    text-align: center;
+    font-weight: bold;
+    font-style:italic ;
+
+
+}
+.i {
+    background: rgb(236, 236, 100);
+}
+/*#o5 {
+    position: absolute;
+    bottom: -620px;
+    width: 400px;
+    height: 350px;
+    line-height:50px;
+    padding-left: 20px;
+}
+#o6 {
+    position: absolute;
+    bottom: -620px;
+    right: 350px;
+    width: 400px;
+    height: 350px;
+    line-height: 40px;
+}
+#o7 {
+   position:absolute ;
+    bottom: -920px;
+    right: 350px;
+    width: 900px;
+    height: 280px;
+    padding-left: -40px;
+    line-height: 40px;
+}
+*/
+#o5 {
+width: 430px;
+height:300px;
+line-height: 50px;
+margin-left: 0px;
+}
+
+#o6 {
+width: 430px;
+height:300px;
+line-height: 40px;
+margin-left: 10px;
+
+}
+#o7 {
+    width: 900px;
+    height: 250px;
+    line-height: 40px;
+    padding: 10px;
+    margin-right: -10px;
+}
+#o8 {
+width: 800px;
+height: 50px;
+padding-left:5px;
+text-align: center;
+
+
+}
+/*.j {
+    width: 150px;
+    height: 50px;
+    background: red;
+    margin-top: -200px;
+    padding:10px;
+    margin-left: 250px;
+    margin-bottom: 10px;
+}*/
+/*
+.o10 {
+    width: auto;
+    height:700px ;
+    border: 10px solid green;
+   position:relative ;
+
+}
+.m {
+    width: 250px;
+    height: 250px;
+    background: white;
+    border: 10px solid rgb(206, 66, 66);
+    box-shadow: 5px 5px rgb(142, 7, 115);
+    border-radius: 25px;
+
+}
+#t { 
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+#u{
+    position: absolute;
+    top: 0;
+    right: 40px;
+
+
+}
+#r {
+    position: absolute;
+    top:400px;
+    left: 0;
+
+
+}
+#w {
+    position: absolute;
+    top: 400px;
+    right: 40px;
+
+}
+*/
